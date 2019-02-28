@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Scary" x:Class="Scary.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Olá, vamos brincar"
+               TextColor="Black"
+               FontFamily="Caveat-Bold.ttf#Caveat-Bold"
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand"
+               x:Name="label_mensagem"
+               />
+        
+        <Button Text="Clique"
+                FontSize="20"
+               FontFamily="Caveat-Regular.ttf#Caveat-Regular"
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand"
+               x:Name="button_scary"
+                Clicked="Handle_Clicked"
+               />
+        
+    </StackLayout>
+</ContentPage>

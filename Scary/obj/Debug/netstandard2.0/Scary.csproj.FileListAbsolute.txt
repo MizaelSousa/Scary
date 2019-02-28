@@ -1,0 +1,12 @@
+/Users/aluno/Projects/Scary/Scary/bin/Debug/netstandard2.0/Scary.deps.json
+/Users/aluno/Projects/Scary/Scary/bin/Debug/netstandard2.0/Scary.dll
+/Users/aluno/Projects/Scary/Scary/bin/Debug/netstandard2.0/Scary.pdb
+/Users/aluno/Projects/Scary/Scary/obj/Debug/netstandard2.0/Scary.csprojAssemblyReference.cache
+/Users/aluno/Projects/Scary/Scary/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/Scary/Scary/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/Scary/Scary/obj/Debug/netstandard2.0/Scary.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Scary/Scary/obj/Debug/netstandard2.0/Scary.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Scary/Scary/obj/Debug/netstandard2.0/Scary.AssemblyInfo.cs
+/Users/aluno/Projects/Scary/Scary/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/Scary/Scary/obj/Debug/netstandard2.0/Scary.dll
+/Users/aluno/Projects/Scary/Scary/obj/Debug/netstandard2.0/Scary.pdb
